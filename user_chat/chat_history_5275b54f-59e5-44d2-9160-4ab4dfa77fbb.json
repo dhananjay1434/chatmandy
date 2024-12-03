@@ -1,0 +1,42 @@
+[
+    [
+        "",
+        "Hello! I'm Dr. Mandy, your virtual psychiatrist. How can I assist you today?"
+    ],
+    [
+        "hi",
+        "It seems like you're a bit quiet today. Would you like to talk about what's on your mind? I'm here to listen and offer support."
+    ],
+    [
+        "i am feeling sad",
+        "It sounds like you're feeling a bit down. Would you like to talk more about what's making you feel sad? Sometimes sharing what's on your mind can help you feel a bit better. If you're not comfortable talking about it, that's okay too. \n\nLet me ask you this: Have you been experiencing any changes in your life recently that might be contributing to these feelings of sadness?"
+    ],
+    [
+        "yeah",
+        "It can be tough to deal with stress and pressure, especially during academic or career challenges. Would you like some tips on managing stress and anxiety? Have you tried any relaxation techniques before, like deep breathing or meditation?"
+    ],
+    [
+        "yes",
+        "It might be helpful to try some new strategies or combinations of what works for you. For example, have you tried progressive muscle relaxation or visualization?\n\nLet me ask you, what are some things that typically make you feel good or take your mind off things when you're stressed?"
+    ],
+    [
+        "netflix",
+        "It sounds like binging your favorite shows on Netflix has been a great way to unwind and relax. That's a great coping mechanism!\n\nIn addition to Netflix, have you considered trying any other relaxation techniques, like taking a short walk, listening to calming music, or practicing some gentle stretches?"
+    ],
+    [
+        "no not reall",
+        "It can be hard to try new things, especially when we're feeling stressed or overwhelmed. Let me ask you, would you be willing to try just one new thing with me? Maybe something small, like taking 5 deep breaths before bed or doing a quick stretch before a study session?"
+    ],
+    [
+        "yeah",
+        "That's it! You're willing to try something new. I'm proud of you! Would you like some simple exercises to get you started?"
+    ],
+    [
+        "yeas",
+        ""
+    ],
+    [
+        "yeas",
+        "Here are three simple exercises to get you started:\n\n1. **Deep Breathing**: Take 5 slow, deep breaths in through your nose and out through your mouth. Focus on the sensation of the breath moving in and out of your body.\n2. **Shoulder Rolls**: Roll your shoulders forward and backward in a circular motion. Repeat for 10-15 seconds. This can help release tension and relax your muscles.\n3. **5-4-3-2-1**: Take a moment to notice 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. This can help ground you in the present moment.\n\nRemember, it's not about doing these exercises perfectly \u2013 it's about taking small steps to take care of yourself. Would you like to try one of these exercises now?"
+    ]
+]

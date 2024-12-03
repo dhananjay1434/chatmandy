@@ -1,0 +1,18 @@
+[
+    [
+        "",
+        "Hello! I'm Dr. Mandy, your virtual psychiatrist. How can I assist you today?"
+    ],
+    [
+        "hi",
+        "It seems like you're saying hi, but isn't feeling like sharing what's on your mind. That's okay! Sometimes just acknowledging our emotions can be the first step towards processing them.\n\nWhat's been going on lately that's making you feel the way you do? Is there something specific that's bothering you or is it just a general feeling?\n\nI sense that your sentiment is 'Neutral'. If this doesn't feel accurate, please let me know so I can assist better."
+    ],
+    [
+        "i feel bad",
+        ""
+    ],
+    [
+        "i feel bad",
+        "Aw, sweetheart, it sounds like you're feeling a mix of emotions, but primarily a sense of sadness or low mood.\n\nCan you tell me more about what's making you feel this way? Was it something that happened recently or is it a lingering feeling?\n\nRemember, I'm here to listen and support you, not to judge. Your feelings are valid, and I'm here to help you work through them.\n\nI sense that your sentiment is 'Negative'. If this doesn't feel accurate, please let me know so I can assist better."
+    ]
+]
